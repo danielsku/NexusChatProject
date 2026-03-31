@@ -23,3 +23,5 @@ click the file named "exe", click on "Nexus.exe" to run the chat application and
 ## Instruction to run the Messenger
 [Link to the demo of the Nexus Chat Messenger](https://youtu.be/PPFEC4wYwHk)
 
+## Development logs
+[Development logs #1](https://youtu.be/1OEEjahPX18)
