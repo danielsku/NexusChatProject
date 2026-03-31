@@ -8,7 +8,9 @@ https://uwin365-my.sharepoint.com/:p:/g/personal/seguin63_uwindsor_ca/IQCtPB8T9M
 
 ## Instructions to run the virtual machine
 To access the project Virtual Machine, download the NexusChatsVM.rdp (click on it, and press the download icon on the top right on GitHub)
+
 Username : NexusUser123!
+
 Password : NexusUser123!
 
 click the file named "exe", click on "Nexus.exe" to run the chat application and that's it!
