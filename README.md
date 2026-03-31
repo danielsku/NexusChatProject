@@ -1,3 +1,6 @@
+<p align="center">
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/b450bcc3-3571-4d93-8d22-9f5bf91ee03f" />
+</p>
 
  # Nexus Chat Project
 Project Report Link:
