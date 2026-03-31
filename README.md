@@ -16,5 +16,5 @@ Password : NexusUser123!
 click the file named "exe", click on "Nexus.exe" to run the chat application and that's it!
 
 ## Instruction to run the Messenger
-[--- Video --](https://youtu.be/PPFEC4wYwHk)
+[Link to the demo of the Nexus Chat Messenger](https://youtu.be/PPFEC4wYwHk)
 
