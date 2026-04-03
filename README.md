@@ -21,7 +21,7 @@ To access the project Virtual Machine, download the NexusChatsVM.rdp (click on i
 click the file named "exe", click on "Nexus.exe" to run the chat application and that's it!
 
 ## Instruction to run the Messenger
-[Link to the demo of the Nexus Chat Messenger](https://youtu.be/PPFEC4wYwHk)
+[Demo](https://youtu.be/YFeNF7fwbIc)
 
 ## Development logs
 [Development logs #1](https://youtu.be/1OEEjahPX18)
