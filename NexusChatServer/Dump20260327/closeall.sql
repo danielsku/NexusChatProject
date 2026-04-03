@@ -1,9 +1,0 @@
-DROP TABLE IF EXISTS sent_to;
-DROP TABLE IF EXISTS message_delivery;
-DROP TABLE IF EXISTS group_request_members;
-DROP TABLE IF EXISTS group_request_member;
-DROP TABLE IF EXISTS message;
-DROP TABLE IF EXISTS group_chat_requests;
-DROP TABLE IF EXISTS friend_request;
-DROP TABLE IF EXISTS chat;
-DROP TABLE IF EXISTS user_account;
