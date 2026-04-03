@@ -25,4 +25,5 @@ click the file named "exe", click on "Nexus.exe" to run the chat application and
 
 ## Development logs
 [Development logs #2](https://youtu.be/oeDs3o2d7Qo)
+
 [Development logs #1](https://youtu.be/1OEEjahPX18)
