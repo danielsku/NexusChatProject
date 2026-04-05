@@ -25,7 +25,7 @@ Once you are inside the Virtual Machine, click the file named "exe", click on "N
 ## Messenger and VM Instructions
 [Demo](https://youtu.be/YFeNF7fwbIc)
 
-NOTE. If the VM does not work for any reason, you can download the "exe" file in the repository. Navigate to it in your file explorer, then click on "NexusReworked.exe" to run the chat application.
+NOTE. If the VM does not work for any reason, you can download the "exe" file in this repository. Navigate to it in your file explorer, then click on "NexusReworked.exe" to run the chat application.
 
 Make sure to have JDK 25 installed before running the .exe program.
 
