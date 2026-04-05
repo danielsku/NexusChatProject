@@ -14,11 +14,13 @@ PowerPoint Link:
 ## Instructions to run the virtual machine
 To access the project Virtual Machine, download the NexusChatsVM.rdp (click on it in the GitHub files, and press the download icon on the top right)
 
+Double click on it in your system and enter the following credentials :
+
    _Username : NexusUser123!_
 
    _Password : NexusUser123!_
 
-click the file named "exe", click on "NexusReworked.exe" to run the chat application
+Once you are inside the Virtual Machine, click the file named "exe", click on "NexusReworked.exe" to run the chat application
 
 ## Messenger and VM Instructions
 [Demo](https://youtu.be/YFeNF7fwbIc)
