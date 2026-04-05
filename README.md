@@ -23,6 +23,8 @@ click the file named "exe", click on "Nexus.exe" to run the chat application and
 ## Messenger and VM Instructions
 [Demo](https://youtu.be/YFeNF7fwbIc)
 
+NOTE. If the VM does not work for any reason, you can download the "exe" file in the repository
+
 ## Development logs
 [Development logs #2](https://youtu.be/oeDs3o2d7Qo)
 
