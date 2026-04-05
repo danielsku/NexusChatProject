@@ -18,12 +18,14 @@ To access the project Virtual Machine, download the NexusChatsVM.rdp (click on i
 
    _Password : NexusUser123!_
 
-click the file named "exe", click on "Nexus.exe" to run the chat application and that's it!
+click the file named "exe", click on "NexusReworked.exe" to run the chat application
 
 ## Messenger and VM Instructions
 [Demo](https://youtu.be/YFeNF7fwbIc)
 
-NOTE. If the VM does not work for any reason, you can download the "exe" file in the repository
+NOTE. If the VM does not work for any reason, you can download the "exe" file in the repository. Navigate to it in your file explorer, then click on "NexusReworked.exe" to run the chat application.
+
+Make sure to have nexuspersonaldb.db inside the save folder as you run the .exe file, that is how your data is going to be stored locally.
 
 ## Development logs
 [Development logs #2](https://youtu.be/oeDs3o2d7Qo)
