@@ -5,11 +5,11 @@
  # Nexus Chat Project
 Project Report Link:
 
-https://uwin365-my.sharepoint.com/:w:/g/personal/seguin63_uwindsor_ca/IQBZVJhNtCFcRqGUluv1O8vQAYArZaX9DQ2hsNCl2Huobic?e=r6kIBC
+[Documentation/Project Report](https://uwin365-my.sharepoint.com/:w:/g/personal/seguin63_uwindsor_ca/IQBZVJhNtCFcRqGUluv1O8vQAYArZaX9DQ2hsNCl2Huobic?e=r6kIBC)
 
 PowerPoint Link:
 
-https://uwin365-my.sharepoint.com/:p:/g/personal/seguin63_uwindsor_ca/IQCtPB8T9MHkRq-6ltkEcu9DAeAPL2A0GCgRT1nEGho7qrI?e=UczwXW
+[Project Presentation](https://uwin365-my.sharepoint.com/:p:/g/personal/seguin63_uwindsor_ca/IQCtPB8T9MHkRq-6ltkEcu9DAeAPL2A0GCgRT1nEGho7qrI?e=UczwXW)
 
 ## Instructions to run the virtual machine
 To access the project Virtual Machine, download the NexusChatsVM.rdp (click on it in the GitHub files, and press the download icon on the top right)
