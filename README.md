@@ -26,9 +26,11 @@ Once you are inside the Virtual Machine, click the file named "exe", click on "N
 
 NOTE. If the VM does not work for any reason, you can download the "exe" file in this repository. Navigate to it in your file explorer, then click on "NexusReworked.exe" to run the chat application.
 
-Make sure to have JDK 25 installed before running the .exe program.
+If you are running the application on your local PC, make sure to have : 
 
-Make sure to have nexuspersonaldb.db inside the same folder as the .exe file, that is how your data is going to be stored locally.
+* JDK 25 installed before running the .exe program
+
+* nexuspersonaldb.db inside the same folder as the .exe file, that is how your data is going to be stored locally
 
 ## Development logs
 [Development logs #2](https://youtu.be/oeDs3o2d7Qo)
