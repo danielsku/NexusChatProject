@@ -41,13 +41,13 @@ Double click on it in your system
 Click "connect"
 
 <p align="center">
- <img width="800" height="275" alt="image" src="https://github.com/user-attachments/assets/7ef114ca-49ba-4239-8134-ad1a4e3938a5" />
+ <img width="400" height="138" alt="image" src="https://github.com/user-attachments/assets/7ef114ca-49ba-4239-8134-ad1a4e3938a5" />
 </p>
 
 Wait for the VM to load
 
 <p align="center">
- <img width="800" height="731" alt="image" src="https://github.com/user-attachments/assets/54ac336d-f205-43f9-b64a-2b78ff78d7c3" />
+ <img width="400" height="366" alt="image" src="https://github.com/user-attachments/assets/54ac336d-f205-43f9-b64a-2b78ff78d7c3" />
 </p>
 
 Enter the following credentials
@@ -57,13 +57,13 @@ Enter the following credentials
    _Password : NexusUser123!_
    
 <p align="center">
- <img width="800" height="749" alt="image" src="https://github.com/user-attachments/assets/93f35e22-81ff-4a47-80c3-30bbb91435d0" />
+ <img width="400" height="375" alt="image" src="https://github.com/user-attachments/assets/93f35e22-81ff-4a47-80c3-30bbb91435d0" />
 </p>
 
 Click "yes"
 
 <p align="center">
- <img width="800" height="672" alt="image" src="https://github.com/user-attachments/assets/b94a399b-2eb1-4260-82d7-23719daa8bc4" />
+ <img width="400" height="336" alt="image" src="https://github.com/user-attachments/assets/b94a399b-2eb1-4260-82d7-23719daa8bc4" />
 </p>
 
 Once you are inside the Virtual Machine, click the file named "exe"
