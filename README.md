@@ -117,7 +117,7 @@ Before you install the "exe" folder in this repository to run the messenger loca
 1. Navigate to the "exe" file in the repository and click on it
 2. Click on "NexusReworked.exe" and press the download link on the top right
 3. Click on "nexuspersonaldb.db" and press the download link on the top right
-4. On you file system, put both of them in the same folder
+4. On you file system, create a folder and put both of them in that **same folder**
 5. Once both of them are in the same folder, click on "NexusReworked.exe" to run the chat application.
 
 **Make sure you have nexuspersonaldb.db inside the same folder as the .exe file, that is how your data is going to be stored locally**
