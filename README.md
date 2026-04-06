@@ -113,21 +113,12 @@ Before you install the "exe" folder in this repository to run the messenger loca
 [Website where you can download JDK 25](https://adoptium.net/temurin/releases/)
 
 #### Instructions to install locally
-<p align="center">
- <img width="1141" height="380" alt="image" src="https://github.com/user-attachments/assets/6d97dde8-df48-4ddd-99ad-99048329b69d" />
-</p>
 
-Navigate to the "exe" file in the repository and click on it
-
-
-
-Click on "NexusReworked.exe" and press the download link on the top right
-
-Click on nexuspersonaldb.db and press the download link on the top right
-
-On you file system, put both of them in the same folder
-
-Once both of them are in the same folder, click on "NexusReworked.exe" to run the chat application.
+1. Navigate to the "exe" file in the repository and click on it
+2. Click on "NexusReworked.exe" and press the download link on the top right
+3. Click on nexuspersonaldb.db and press the download link on the top right
+4. On you file system, put both of them in the same folder
+5. Once both of them are in the same folder, click on "NexusReworked.exe" to run the chat application.
 
 **Make sure you have nexuspersonaldb.db inside the same folder as the .exe file, that is how your data is going to be stored locally**
 
