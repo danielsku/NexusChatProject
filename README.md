@@ -35,7 +35,7 @@ Press the download icon on the top right
 Double click on it in your system
 
 <p align="center">
- <img width="800" height="421" alt="image" src="https://github.com/user-attachments/assets/0b3c32be-b991-40b0-8cf0-9e1f784d85aa" />
+ <img width="400" height="210" alt="image" src="https://github.com/user-attachments/assets/0b3c32be-b991-40b0-8cf0-9e1f784d85aa" />
 </p>
 
 Click "connect"
