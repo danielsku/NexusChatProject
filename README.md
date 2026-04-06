@@ -15,85 +15,87 @@ PowerPoint Link:
 [Messenger and VM Demo video](https://youtu.be/YFeNF7fwbIc)
 
 To access the project Virtual Machine, download the NexusChatsVM.rdp
-
-<p align="center">
- <img width="800" height="274" alt="image" src="https://github.com/user-attachments/assets/c35c7c8b-2829-40c2-835f-f0174519d94c" />
-</p>
-
-<p align="center">
- Click on it in the GitHub files
-</p>
-<p align="center">
- <img width="800" height="193" alt="image" src="https://github.com/user-attachments/assets/5680694f-5fd0-400b-9c71-d69cea58fcf5" />
-</p>
-
-<p align="center">
- Press the download icon on the top right
-</p>
-
-<p align="center">
- <img width="800" height="323" alt="image" src="https://github.com/user-attachments/assets/b73edcf8-733f-4ac9-a71d-6ef6cb177de9" />
-</p>
-
-<p align="center">
- Double click on it in your system
-</p>
-
-<p align="center">
- <img width="400" height="210" alt="image" src="https://github.com/user-attachments/assets/0b3c32be-b991-40b0-8cf0-9e1f784d85aa" />
-</p>
-
-<p align="center">
- Click "connect"
-</p>
-
-<p align="center">
- <img width="400" height="138" alt="image" src="https://github.com/user-attachments/assets/7ef114ca-49ba-4239-8134-ad1a4e3938a5" />
-</p>
-
-<p align="center">
- Wait for the VM to load
-</p>
-
-<p align="center">
- <img width="400" height="366" alt="image" src="https://github.com/user-attachments/assets/54ac336d-f205-43f9-b64a-2b78ff78d7c3" />
-</p>
-
-<p align="center">
- Enter the following credentials
- <pre> 
-  Password : NexusUser123!
- </pre>
-  
-</p>
+<details>
+ <summary>Detailed steps with screenshots</summary>
+ <p align="center">
+  <img width="800" height="274" alt="image" src="https://github.com/user-attachments/assets/c35c7c8b-2829-40c2-835f-f0174519d94c" />
+ </p>
+ 
+ <p align="center">
+  Click on it in the GitHub files
+ </p>
+ <p align="center">
+  <img width="800" height="193" alt="image" src="https://github.com/user-attachments/assets/5680694f-5fd0-400b-9c71-d69cea58fcf5" />
+ </p>
+ 
+ <p align="center">
+  Press the download icon on the top right
+ </p>
+ 
+ <p align="center">
+  <img width="800" height="323" alt="image" src="https://github.com/user-attachments/assets/b73edcf8-733f-4ac9-a71d-6ef6cb177de9" />
+ </p>
+ 
+ <p align="center">
+  Double click on it in your system
+ </p>
+ 
+ <p align="center">
+  <img width="400" height="210" alt="image" src="https://github.com/user-attachments/assets/0b3c32be-b991-40b0-8cf0-9e1f784d85aa" />
+ </p>
+ 
+ <p align="center">
+  Click "connect"
+ </p>
+ 
+ <p align="center">
+  <img width="400" height="138" alt="image" src="https://github.com/user-attachments/assets/7ef114ca-49ba-4239-8134-ad1a4e3938a5" />
+ </p>
+ 
+ <p align="center">
+  Wait for the VM to load
+ </p>
+ 
+ <p align="center">
+  <img width="400" height="366" alt="image" src="https://github.com/user-attachments/assets/54ac336d-f205-43f9-b64a-2b78ff78d7c3" />
+ </p>
+ 
+ <p align="center">
+  Enter the following credentials
+  <pre> 
+   Password : NexusUser123!
+  </pre>
    
-<p align="center">
- <img width="400" height="375" alt="image" src="https://github.com/user-attachments/assets/93f35e22-81ff-4a47-80c3-30bbb91435d0" />
-</p>
-
-<p align="center">
- Click "yes"
-</p>
-
-<p align="center">
- <img width="400" height="336" alt="image" src="https://github.com/user-attachments/assets/b94a399b-2eb1-4260-82d7-23719daa8bc4" />
-</p>
-
-<p align="center">
- Once you are inside the Virtual Machine, click the file named "exe"
-</p>
-
-<p align="center">
- <img width="800" height="352" alt="image" src="https://github.com/user-attachments/assets/c6633ccf-3f36-49da-999c-3374c73f8c7c" />
-</p>
-
-<p align="center">
-click on "Nexus.exe" to run the chat application
-</p>
-
-<p align="center">
- <span style="color:red"> NOTE. If the VM does not work for any reason, you can download the "exe" file in this repository. </span>
-</p>
+ </p>
+    
+ <p align="center">
+  <img width="400" height="375" alt="image" src="https://github.com/user-attachments/assets/93f35e22-81ff-4a47-80c3-30bbb91435d0" />
+ </p>
+ 
+ <p align="center">
+  Click "yes"
+ </p>
+ 
+ <p align="center">
+  <img width="400" height="336" alt="image" src="https://github.com/user-attachments/assets/b94a399b-2eb1-4260-82d7-23719daa8bc4" />
+ </p>
+ 
+ <p align="center">
+  Once you are inside the Virtual Machine, click the file named "exe"
+ </p>
+ 
+ <p align="center">
+  <img width="800" height="352" alt="image" src="https://github.com/user-attachments/assets/c6633ccf-3f36-49da-999c-3374c73f8c7c" />
+ </p>
+ 
+ <p align="center">
+ click on "Nexus.exe" to run the chat application
+ </p>
+ 
+ <p align="center">
+  <span style="color:red"> NOTE. If the VM does not work for any reason, you can download the "exe" file in this repository. </span>
+ </p>
+</details>
 
 ### Alternative if VM does not work
 
