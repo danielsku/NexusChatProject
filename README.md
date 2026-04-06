@@ -15,6 +15,14 @@ PowerPoint Link:
 [Messenger and VM Demo video](https://youtu.be/YFeNF7fwbIc)
 
 To access the project Virtual Machine, download the NexusChatsVM.rdp
+
+1. Open the on the GitHub repository and download it  
+2. Double click the file on your system
+3. Click "Connect"
+4. Enter password : NexusUser123!
+5. Click on the "exe" folder on the VM
+6. Double click on "Nexus.exe" to run the messenger
+   
 <details>
  <summary>Detailed steps with screenshots</summary>
  <p align="center">
