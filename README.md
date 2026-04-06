@@ -1,5 +1,5 @@
 <p align="center">
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/b450bcc3-3571-4d93-8d22-9f5bf91ee03f" />
+ <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/b450bcc3-3571-4d93-8d22-9f5bf91ee03f" />
 </p>
 
  # Nexus Chat Project
@@ -13,6 +13,10 @@ PowerPoint Link:
 
 ## Messenger and VM Instructions
 [Demo](https://youtu.be/YFeNF7fwbIc)
+
+<p align="center">
+ <img width="1155" height="396" alt="image" src="https://github.com/user-attachments/assets/c35c7c8b-2829-40c2-835f-f0174519d94c" />
+</p>
 
 To access the project Virtual Machine, download the NexusChatsVM.rdp (click on it in the GitHub files, and press the download icon on the top right)
 
