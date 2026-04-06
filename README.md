@@ -12,7 +12,7 @@ PowerPoint Link:
 [Presentation](https://uwin365-my.sharepoint.com/:p:/g/personal/seguin63_uwindsor_ca/IQCtPB8T9MHkRq-6ltkEcu9DAeAPL2A0GCgRT1nEGho7qrI?e=UczwXW)
 
 ## VM Instructions
-[Messenger and VM Demo](https://youtu.be/YFeNF7fwbIc)
+[Messenger and VM Demo video](https://youtu.be/YFeNF7fwbIc)
 
 To access the project Virtual Machine, download the NexusChatsVM.rdp
 
