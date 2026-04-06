@@ -107,7 +107,7 @@ To access the project Virtual Machine, download "NexusChatsVM.rdp"
 
 ### Alternative if VM does not work
 
-Before you install the "exe" folder in this repository to run the messenger locally, make sure to have : 
+Before you run the messenger locally, make sure to have : 
 
 * JDK 25 installed before running the .exe program
 [Website where you can download JDK 25](https://adoptium.net/temurin/releases/)
