@@ -17,37 +17,37 @@ PowerPoint Link:
 To access the project Virtual Machine, download the NexusChatsVM.rdp
 
 <p align="center">
- <img width="1155" height="396" alt="image" src="https://github.com/user-attachments/assets/c35c7c8b-2829-40c2-835f-f0174519d94c" />
+ <img width="462" height="158" alt="image" src="https://github.com/user-attachments/assets/c35c7c8b-2829-40c2-835f-f0174519d94c" />
 </p>
 
 Click on it in the GitHub files
 
 <p align="center">
- <img width="1490" height="361" alt="image" src="https://github.com/user-attachments/assets/5680694f-5fd0-400b-9c71-d69cea58fcf5" />
+ <img width="596" height="144" alt="image" src="https://github.com/user-attachments/assets/5680694f-5fd0-400b-9c71-d69cea58fcf5" />
 </p>
 
 Press the download icon on the top right
 
 <p align="center">
- <img width="1133" height="458" alt="image" src="https://github.com/user-attachments/assets/b73edcf8-733f-4ac9-a71d-6ef6cb177de9" />
+ <img width="453" height="183" alt="image" src="https://github.com/user-attachments/assets/b73edcf8-733f-4ac9-a71d-6ef6cb177de9" />
 </p>
 
 Double click on it in your system
 
 <p align="center">
- <img width="755" height="397" alt="image" src="https://github.com/user-attachments/assets/0b3c32be-b991-40b0-8cf0-9e1f784d85aa" />
+ <img width="302" height="159" alt="image" src="https://github.com/user-attachments/assets/0b3c32be-b991-40b0-8cf0-9e1f784d85aa" />
 </p>
 
 Click "connect"
 
 <p align="center">
- <img width="582" height="200" alt="image" src="https://github.com/user-attachments/assets/7ef114ca-49ba-4239-8134-ad1a4e3938a5" />
+ <img width="233" height="80" alt="image" src="https://github.com/user-attachments/assets/7ef114ca-49ba-4239-8134-ad1a4e3938a5" />
 </p>
 
 Wait for the VM to load
 
 <p align="center">
- <img width="597" height="545" alt="image" src="https://github.com/user-attachments/assets/54ac336d-f205-43f9-b64a-2b78ff78d7c3" />
+ <img width="239" height="218" alt="image" src="https://github.com/user-attachments/assets/54ac336d-f205-43f9-b64a-2b78ff78d7c3" />
 </p>
 
 Enter the following credentials
@@ -57,19 +57,19 @@ Enter the following credentials
    _Password : NexusUser123!_
    
 <p align="center">
- <img width="551" height="516" alt="image" src="https://github.com/user-attachments/assets/93f35e22-81ff-4a47-80c3-30bbb91435d0" />
+ <img width="220" height="206" alt="image" src="https://github.com/user-attachments/assets/93f35e22-81ff-4a47-80c3-30bbb91435d0" />
 </p>
 
 Click "yes"
 
 <p align="center">
- <img width="256" height="215" alt="image" src="https://github.com/user-attachments/assets/b94a399b-2eb1-4260-82d7-23719daa8bc4" />
+ <img width="102" height="86" alt="image" src="https://github.com/user-attachments/assets/b94a399b-2eb1-4260-82d7-23719daa8bc4" />
 </p>
 
 Once you are inside the Virtual Machine, click the file named "exe"
 
 <p align="center">
- <img width="922" height="406" alt="image" src="https://github.com/user-attachments/assets/c6633ccf-3f36-49da-999c-3374c73f8c7c" />
+ <img width="369" height="162" alt="image" src="https://github.com/user-attachments/assets/c6633ccf-3f36-49da-999c-3374c73f8c7c" />
 </p>
 
 click on "Nexus.exe" to run the chat application
@@ -81,18 +81,27 @@ click on "Nexus.exe" to run the chat application
 Before you install the "exe" folder in this repository to run the messenger locally, make sure to have : 
 
 * JDK 25 installed before running the .exe program
+* 
+[Website where you can download JDK 25](https://adoptium.net/temurin/releases/)
 
 #### Instructions to install locally
+<p align="center">
+ <img width="1141" height="380" alt="image" src="https://github.com/user-attachments/assets/6d97dde8-df48-4ddd-99ad-99048329b69d" />
+</p>
 
-Navigate to the "exe" file in the repository
+Navigate to the "exe" file in the repository and click on it
 
-Press the download icon on the top right
 
-Navigate to the "exe" folder in your file explorer, 
 
-Click on "NexusReworked.exe" to run the chat application.
+Click on "NexusReworked.exe" and press the download link on the top right
 
-Make sure nexuspersonaldb.db inside the same folder as the .exe file, that is how your data is going to be stored locally
+Click on nexuspersonaldb.db and press the download link on the top right
+
+On you file system, put both of them in the same folder
+
+Once both of them are in the same folder, click on "NexusReworked.exe" to run the chat application.
+
+**Make sure you have nexuspersonaldb.db inside the same folder as the .exe file, that is how your data is going to be stored locally**
 
 
 ## Development logs
