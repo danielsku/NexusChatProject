@@ -60,11 +60,11 @@ To access the project Virtual Machine, download the NexusChatsVM.rdp
 </p>
 
 <p align="center">
-Enter the following credentials
-
-   _Username : NexusUser123!_
-
-   _Password : NexusUser123!_
+ Enter the following credentials
+ ```
+  _Username : NexusUser123!_
+  _Password : NexusUser123!_
+ ```
 </p>
    
 <p align="center">
