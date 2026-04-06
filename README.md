@@ -14,7 +14,7 @@ PowerPoint Link:
 ## VM Instructions
 [Messenger and VM Demo video](https://youtu.be/YFeNF7fwbIc)
 
-To access the project Virtual Machine, download the NexusChatsVM.rdp
+To access the project Virtual Machine, download "NexusChatsVM.rdp"
 
 1. Open the on the GitHub repository and download it  
 2. Double click the file on your system
