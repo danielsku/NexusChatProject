@@ -14,11 +14,19 @@ PowerPoint Link:
 ## Messenger and VM Instructions
 [Demo](https://youtu.be/YFeNF7fwbIc)
 
+To access the project Virtual Machine, download the NexusChatsVM.rdp
+
 <p align="center">
  <img width="1155" height="396" alt="image" src="https://github.com/user-attachments/assets/c35c7c8b-2829-40c2-835f-f0174519d94c" />
 </p>
 
-To access the project Virtual Machine, download the NexusChatsVM.rdp (click on it in the GitHub files, and press the download icon on the top right)
+Click on it in the GitHub files
+
+<p align="center">
+ <img width="1490" height="361" alt="image" src="https://github.com/user-attachments/assets/5680694f-5fd0-400b-9c71-d69cea58fcf5" />
+</p>
+
+Press the download icon on the top right
 
 Double click on it in your system and enter the following credentials :
 
