@@ -11,8 +11,8 @@ PowerPoint Link:
 
 [Presentation](https://uwin365-my.sharepoint.com/:p:/g/personal/seguin63_uwindsor_ca/IQCtPB8T9MHkRq-6ltkEcu9DAeAPL2A0GCgRT1nEGho7qrI?e=UczwXW)
 
-## Messenger and VM Instructions
-[Demo](https://youtu.be/YFeNF7fwbIc)
+## VM Instructions
+[Messenger and VM Demo](https://youtu.be/YFeNF7fwbIc)
 
 To access the project Virtual Machine, download the NexusChatsVM.rdp
 
@@ -28,21 +28,72 @@ Click on it in the GitHub files
 
 Press the download icon on the top right
 
-Double click on it in your system and enter the following credentials :
+<p align="center">
+ <img width="1133" height="458" alt="image" src="https://github.com/user-attachments/assets/b73edcf8-733f-4ac9-a71d-6ef6cb177de9" />
+</p>
+
+Double click on it in your system
+
+<p align="center">
+ <img width="755" height="397" alt="image" src="https://github.com/user-attachments/assets/0b3c32be-b991-40b0-8cf0-9e1f784d85aa" />
+</p>
+
+Click "connect"
+
+<p align="center">
+ <img width="582" height="200" alt="image" src="https://github.com/user-attachments/assets/7ef114ca-49ba-4239-8134-ad1a4e3938a5" />
+</p>
+
+Wait for the VM to load
+
+<p align="center">
+ <img width="597" height="545" alt="image" src="https://github.com/user-attachments/assets/54ac336d-f205-43f9-b64a-2b78ff78d7c3" />
+</p>
+
+Enter the following credentials
 
    _Username : NexusUser123!_
 
    _Password : NexusUser123!_
+   
+<p align="center">
+ <img width="551" height="516" alt="image" src="https://github.com/user-attachments/assets/93f35e22-81ff-4a47-80c3-30bbb91435d0" />
+</p>
 
-Once you are inside the Virtual Machine, click the file named "exe", click on "NexusReworked.exe" to run the chat application
+Click "yes"
 
-NOTE. If the VM does not work for any reason, you can download the "exe" file in this repository. Navigate to it in your file explorer, then click on "NexusReworked.exe" to run the chat application.
+<p align="center">
+ <img width="256" height="215" alt="image" src="https://github.com/user-attachments/assets/b94a399b-2eb1-4260-82d7-23719daa8bc4" />
+</p>
 
-If you are running the application on your local PC, make sure to have : 
+Once you are inside the Virtual Machine, click the file named "exe"
+
+<p align="center">
+ <img width="922" height="406" alt="image" src="https://github.com/user-attachments/assets/c6633ccf-3f36-49da-999c-3374c73f8c7c" />
+</p>
+
+click on "Nexus.exe" to run the chat application
+
+<span style="color:red"> NOTE. If the VM does not work for any reason, you can download the "exe" file in this repository. </span>
+
+### Alternative if VM does not work
+
+Before you install the "exe" folder in this repository to run the messenger locally, make sure to have : 
 
 * JDK 25 installed before running the .exe program
 
-* nexuspersonaldb.db inside the same folder as the .exe file, that is how your data is going to be stored locally
+#### Instructions to install locally
+
+Navigate to the "exe" file in the repository
+
+Press the download icon on the top right
+
+Navigate to the "exe" folder in your file explorer, 
+
+Click on "NexusReworked.exe" to run the chat application.
+
+Make sure nexuspersonaldb.db inside the same folder as the .exe file, that is how your data is going to be stored locally
+
 
 ## Development logs
 [Development logs #2](https://youtu.be/oeDs3o2d7Qo)
