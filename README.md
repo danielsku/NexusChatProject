@@ -18,7 +18,7 @@ To access the project Virtual Machine, download the NexusChatsVM.rdp
 
 <p align="center">
  <img width="800" height="274" alt="image" src="https://github.com/user-attachments/assets/c35c7c8b-2829-40c2-835f-f0174519d94c" />
-</p>
+
 
 Click on it in the GitHub files
 
@@ -75,6 +75,8 @@ Once you are inside the Virtual Machine, click the file named "exe"
 click on "Nexus.exe" to run the chat application
 
 <span style="color:red"> NOTE. If the VM does not work for any reason, you can download the "exe" file in this repository. </span>
+
+</p>
 
 ### Alternative if VM does not work
 
