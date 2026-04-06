@@ -29,4 +29,9 @@ NOTE. If the VM does not work for any reason, you can download the "exe" file in
 
 Make sure to have JDK 25 installed before running the .exe program.
 
+## Development logs
+[Development logs #2](https://youtu.be/oeDs3o2d7Qo)
+
+[Development logs #1](https://youtu.be/1OEEjahPX18)
+
 Make sure to have nexuspersonaldb.db inside the same folder as the .exe file, that is how your data is going to be stored locally.
