@@ -4,7 +4,7 @@
 
  # Nexus Chat Project
 <p align="center">
- <img width="1783" height="885" alt="image" src="https://github.com/user-attachments/assets/b84d2c8d-ac8c-446e-b5f8-d45707a32caa" />
+ <img width="892" height="443" alt="image" src="https://github.com/user-attachments/assets/b84d2c8d-ac8c-446e-b5f8-d45707a32caa" />
 </p>
  
 Project Report Link:
