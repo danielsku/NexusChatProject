@@ -126,7 +126,7 @@ Before you run the messenger locally, make sure to have :
 
 **Make sure you have nexuspersonaldb.db inside the same folder as the .exe file, that is how your data is going to be stored locally**
 
-If there are issues with the GUI while running "NexusReworked.exe" such as below, repeat steps 1-5 with "exe2" file instead
+_If there are issues with the GUI while running "NexusReworked.exe" such as below, repeat steps 1-5 with "exe2" file instead_
 <details>
  <summary>Example GUI error</summary>
  <p align="center">
