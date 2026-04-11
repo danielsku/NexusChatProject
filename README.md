@@ -20,7 +20,7 @@ PowerPoint Link:
 
 To access the project Virtual Machine, download "NexusChatsVM.rdp"
 
-1. Open the on the GitHub repository and download it  
+1. Open the file on the GitHub repository and download it  
 2. Double click the file on your system
 3. Click "Connect"
 4. Enter password : NexusUser123!
