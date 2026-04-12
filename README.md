@@ -133,9 +133,3 @@ _If there are issues with the GUI while running "NexusReworked.exe" (such as the
   <img width="1539" height="875" alt="image" src="https://github.com/user-attachments/assets/7a8f4670-dcf4-424b-b58b-484c5855fcc1" />
  </p>
 </details>
-
-
-## Development logs
-[Development logs #2](https://youtu.be/oeDs3o2d7Qo)
-
-[Development logs #1](https://youtu.be/1OEEjahPX18)
