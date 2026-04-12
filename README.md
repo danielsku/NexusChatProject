@@ -9,7 +9,7 @@
  
 Project Report Link:
 
-[Report](https://uwin365-my.sharepoint.com/:w:/g/personal/seguin63_uwindsor_ca/IQBZVJhNtCFcRqGUluv1O8vQAYArZaX9DQ2hsNCl2Huobic?e=r6kIBC)
+[Document](https://uwin365-my.sharepoint.com/:w:/g/personal/seguin63_uwindsor_ca/IQBZVJhNtCFcRqGUluv1O8vQAYArZaX9DQ2hsNCl2Huobic?e=r6kIBC)
 
 PowerPoint Link:
 
